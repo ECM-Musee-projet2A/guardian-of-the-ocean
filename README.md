@@ -1,4 +1,15 @@
-### Guardian of the Ocean
+# Guardian of the Ocean
 
-This app is developped as part of a partnership between engineering school Ecole Centrale de Marseille and Musée Subaquatique de Marseille.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+
+## General info
+This app is developped as part of a partnership between engineering school <i>Ecole Centrale de Marseille</i> and <i>Musée Subaquatique de Marseille</i> (MSM).
+
+
+## Technologies
+Project is developped with:
+**React Native**
 
